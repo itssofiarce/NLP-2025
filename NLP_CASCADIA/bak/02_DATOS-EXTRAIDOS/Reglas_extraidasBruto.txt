@@ -1,0 +1,42 @@
+ 
+ 
+ 
+ 
+por Pastor3  
+CASCADIA  
+1-4 jugadores  
+PREPARACIÓN : 
+1. Colocar  el 20+3  loseta  de hábitat  (hexagonales) por 
+jugador  barajadas en pilas de reserva boca abajo  en el 
+centro de la zona de juego , y revelar  4 loseta  de hábitat  
+formando una fila boca arriba . 
+2.  Colocar 1 ficha de animal  al azar  desde la bolsa  (con todas las fichas), bajo cada loseta  de hábitat  
+formando parejas .  
+3. Formar una reserva con las ficha s de naturaleza .  
+4. Entregar 1 loseta  de hábitat  inicial  (triple) a cada jugador, dando inicio a su zona de juego.  
+5. Elegir el tipo de juego según dificultad: FAMILIAR  (FAUNA  GENERAL ) < 5 CARTAS DE FAUNA  A (oso, reno , salmón , 
+águila  y zorro ) < 5 CARTAS DE FAUNA  B < 5 CARTAS DE FAUNA  C, y colocarlas a la vista de todos los jugadores .  
+DESARROLLO : Los turnos se juegan en el sentido de las agujas del reloj sacando una loseta de hábitat y su 
+ficha de animal  de la  misma columna  (pareja) hasta que termine la partida. Definir al azar e l jugador inicial . 
+✓ Tomar  pareja de  loseta de hábitat + ficha de animal : 
+• Elegir 1 loseta de hábitat bocarriba  de una de las 4 reveladas y c olocarla en un espacio adyacente  a 
+otra loseta , sin importar si es igual o no el tipo de  terrenos  (el mayor terreno de cada tipo gana rá 
++PV), y siempre con uno de sus lados adjunto  a otra loseta  del jugador . 
+• Tomar la ficha de animal  emparejada bajo la loseta y colocarla sobre  una loseta  que tenga el 
+símbolo  del mismo animal . Si la loseta  tiene el símbolo de hoja /piña  (loseta KEYSTONE ), tomar 1 ficha 
+de naturaleza de la reserva.  Si no hay losetas  libres para e l animal , la ficha  se devuelve a la bolsa .  
+• Sobrepoblación : si en algún momento hay 3 o 4 fichas de animal  del mismo tipo en el mercado 
+central, podremos devolverlas a la bosa y reponer con fichas nuevas al azar . 
+✓ Usar  1 ficha  de naturaleza : se pueden utilizar en cualquier momento del turno para : 
+• Sacar 1 ficha de animal  de una columna distinta de la loseta de hábitat  (no emparejada) . 
+• Renovar cualquier  número de fichas de animal  y sustituirlas con fichas nuevas de la bolsa . 
+FINAL DE PARTIDA : La partida finaliza al término de la 20ª ronda  después del turno en que se tome la última 
+loseta de hábitat disponible para reponer  (sobrarán las últimas 4 del mercado que no se usarán).  Se obtiene la 
+puntuación final  sumando estos puntajes , ganando e l jugador con más PV. 
+✓ +PV de los patrones  según  las fichas de animal  en cada una de las 5 cartas de fauna , calculando por 
+cada animal presente ( águila , zorro  y parejas de osos  en A ) o por línea ( salmones  y renos  en A ). 
+✓ +1 PV por cada ficha de naturaleza  sobrante . 
+✓ +1 PV por cada loseta que componga el grupo más grande de cada  hábitat . 
+✓ +2 PV (2 Js) para el jugador con el grupo de mayor N° de  losetas adyacentes  por hábitat . En partidas a 
+3/4 jugadores : +3 PV el jug . con el grupo más grande y +1 PV  el jug . del 2° más grande . 
+En caso de empate, ganará  el jugador con más fichas de naturaleza , si persiste, se comparte la victoria.  

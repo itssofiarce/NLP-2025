@@ -1,0 +1,114 @@
+Qui ck Reference Card
+Setup
+•
+2 players: 
+◦43 terrain tiles (42 left in box)
+◦10 animals of each type*
+•
+3 players: 
+◦63 terrain tiles (22 left in box)
+◦15 animals of each type*
+•
+4 players: 
+◦83 terrain tiles (2 left in box)
+◦20 animals of each type
+(* In original rules: always keep all animals)
+Player Turn
+•
+If all 4 animals are the same, replace all.
+•
+If 3 animals are same, optionally replace 
+those, once per turn.
+•
+Spend as many nature tokens as you wish:
+◦1 token to replace any number of animals.
+◦1 token to take any terrain + any animal.
+•
+Otherwise, take a set of terrain – animal.
+•
+Place terrain anywhere in your environment.
+•
+Place animal on any matching terrain.
+•
+Gain nature token for animal on keystone 
+tile.
+End Game Scoring
+•
+Score points according to animal cards
+•
+1 pt/tile in largest group of each terrain type
+•
+Majority score for largest habitat per terrain
+◦2 players: 2 pts for largest, 1 pt for ties
+◦3 to 4 players:
+▪3 pts for largest, 1 pt for 2nd place
+▪2 pts each if 2 players tie for largest, 
+0 pts for 2nd place
+▪1 pt each if 3-4 players tie for largest, 
+0 pts for 2nd place
+▪0 pts for ties for second place
+•
+1 to 4 players: 1 pt per nature token
+•
+2 to 4 players: tie breaker: most nature tokens
+Final Scoring Card
+Mountain
+Wetland
+River
+Prairie
+Forest
+Bear
+Hawk
+Fox
+Salmon
+Elk
+
+BEARS score for creating groups of bears of various sizes. In each case, bear groups may be in 
+any shape or orientation, but two groups may not be placed next to one another. Each group 
+must contain the exact number of bears shown on the scoring card, in order to score. 
+Card clarific ations: (A) Score an increasing number of points, based on the total number of pairs 
+of bears. (B) Score 10 points for each group of exactly three bears. (C) Score for each group of 
+bears 1-3 in size, and awards a bonus of 3 points for having at least one of each of the 3 group 
+sizes. (D) Score for each group of bears 2-4 in size.
+ELK score for creating groups of elk. Most elk cards require the groups to be in the exact 
+shape/formation pictured on the card. Unlike bears, elk groups may be placed next to one 
+another, but each elk may only score once, for a single group/formation. When scoring elk 
+groups that are connected, always score the groups based on the interpretation that would result 
+in the largest number of points. Card clarific ations: (A) Score for groups in straight lines. 
+Straight lines, as pictured, must be connected from fla t side to fla t side of the hexagons, in any 
+orientation. (B) Score for groups in the exact shapes shown, in any orientation. (C) Score for 
+each contiguous group of elk, an increasing number of points, based on size. The se groups may 
+be of any shape or size. (D) Groups must be in a circular formation, as pictured
+SALMON score for creating runs of salmon. A run is defin ed as a group of adjacent salmon, 
+where each salmon is adjacent to no more than two other salmon. (Note: Thi s means that a 
+group of 3 salmon in a triangle shape may count as a run, but no other salmon may be atta ched 
+to this run). Each run of salmon may not have any other salmon adjacent to it. 
+Card clarific ations: (A) Score for each run, based on size, up to a maximum size of 7. (B) Score 
+for each run, based on size, up to a maximum size of 5. (C) Score for each run, based on size, 
+between 3 and 5. (D) Score for each run of salmon, one point for each salmon in the run, plus 
+one point for each adjacent animal token (type of animal does not matte r).
+HAWKS score for spreading out over the landscape. Hawks can score for either each hawk, each 
+pair of hawks, or for lines of sight between hawks. A line of sight is a straight line from fla t side 
+to fla t side of the hexagons, as pictured. A line of sight is only interrupted by the presence of 
+another hawk (therefore, line of sight may not cross from one hawk to another, through a 
+hawk). Card clarific ations: (A) Score an increasing number of points for each hawk that is not 
+adjacent to any other hawk. (B) Score an increasing number of points for each hawk that is not 
+adjacent to any other hawk, and also has a direct line of sight to another hawk. (C) Score 3 
+points for each line of sight between two hawks. (Note: multiple lines of sight may involve the 
+same hawk). (D) Score for each pair of hawks, an increasing number of points based on the 
+number of unique animal types between them (not including other hawks). Each hawk may only 
+be part of one pair.
+FOXES score for adjacency to other animals. Foxes score either individually or in pairs, and 
+each fox or fox pair is independently scored, with an increasing number of points, depending on 
+whether conditions are met in any of the adjacent habitat spaces (6 in the case of a single fox, 8 
+in the case of a fox pair in Card D). 
+Card clarific ations: (A) Score for each fox, an increasing number of points based on the number 
+of unique animal types (including other foxes) directly adjacent to it. (B) Score for each fox, an 
+increasing number of points based on the number of unique animal pairs (not including other 
+fox pairs) directly adjacent to it. As pictured, pairs of other animals do not need to be adjacent 
+to each other. (C) Score for each fox, an increasing number of points based on the number of 
+similar animals (not including other foxes) directly adjacent to it. Only score the most abundant 
+adjacent animal type. (D) Score for each fox pair, an increasing number of points based on the 
+number of unique animal pairs (not including other fox pairs) directly adjacent to it. As 
+pictured, pairs of other animals do not need to be adjacent to each other
+

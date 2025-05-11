@@ -1,0 +1,94 @@
+Cascadia
+Setup
+●
+Place all wildlife tokens in a cloth bag.
+●
+Take habitat tiles equal to 20 per player plus 3:
+○
+2 Player: 43 tiles (or remove 42)
+○
+3 Player: 63 tiles (or remove 22)
+○
+4 Player: 83 tiles (or remove 2)
+●
+Shuffle the habitat tiles face-down into a stack.
+●
+Randomly select 1 wildlife scoring card for each of the five animals.
+●
+Randomly give each player 1 starter habitat tile.
+●
+Reveal 4 habitat tiles.
+●
+Draw 4 wildlife tokens from the bag and pair one with each of the 4 habitat tiles.
+●
+Randomly determine first player.
+Introduction
+Welcome to Cascadia! The game takes place in the Pacific Northwest of North America. We’ll be
+drafting habitat tiles and wildlife tokens to create the best ecosystem. You’ll score points for having
+large groups of connected habitat tiles, and you’ll also score points based on the wildlife cards. The
+game ends when a habitat tile needs to be drawn and there are none remaining. The player with the
+most points wins.
+Playing a Turn
+●
+Select one of the four combinations of habitat tiles and wildlife tokens.
+●
+You must place your newly acquired habitat tile adjacent to an existing tile. The terrain on the
+tile does not need to match adjacent terrain, but it can be beneficial to do so for end-game
+scoring.
+●
+The wildlife token can be placed on any habitat tile that does not yet have a token.
+●
+The habitat tile must show the matching wildlife icon on it.
+●
+If you can not or do not want to place the wildlife token, you can discard it to the bag.
+●
+If you place your wildlife token on a keystone tile, gain a nature token.
+●
+If all 4 wildlife tokens are the same, you must draw 4 new wildlife tokens, return the 4 wildlife
+tokens that were the same back to the bag.
+●
+If 3 wildlife tokens are the same, once per turn you may draw 3 new wildlife tokens, and then
+return the 3 wildlife tokens that were the same back to the bag.
+●
+If you have nature tokens, you can spend 1 nature token to either take any 1 of the 4 habitat
+tiles and any 1 of the 4 wildlife tokens, or you can discard any number of wildlife tokens and
+draw new ones to replace them.
+●
+Reveal a new habitat tile and draw a new wildlife token to put in the center of the table.
+
+End of Game
+The game ends at the end of a player’s turn when there are no face-down habitat tiles to refill the
+market. Each player will have taken 20 turns. Score points for the following:
+●
+Wildlife Scoring Cards (“A” set explained below)
+○
+Grizzly Bears - Score for every pair that are not adjacent to other bears.
+○
+Roosevelt Elk - Score for each elk in a line.
+○
+Chinook Salmon - Score for each continuous run of salmon that are not adjacent to
+another run of salmon.
+○
+Red-Tailed Hawk - Score each hawk that is not adjacent to another hawk.
+○
+Red Fox - Score for each animal type that is adjacent to the fox (including another fox).
+●
+For each terrain type (mountains, forests, prairies, wetlands, rivers), identify your largest
+contiguous area. Score 1 point per habitat tile in that area.
+●
+For each terrain type, the player with the largest contiguous area scores 3 points and the
+player with the second most scores 1 point (in a 3 or 4 player game). If two players tie for
+largest, they both score 2 points, and no one scores for second. If three or four players tie for
+largest, they each score 1 point, and no one scores for second. Any ties for second largest
+score 0 points.
+○
+In a 2 player game, the player with the largest contiguous area scores 2 points. If tied,
+score 1 point each.
+●
+Score 1 point for each unused nature token.
+If tied, the player with the most nature tokens wins. If still tied, players share the victory.
+Other Notes
+●
+When wiping wildlife tokens, set aside the tokens being wiped, then draw the new ones, and
+then return the wiped tokens to the bag.
+

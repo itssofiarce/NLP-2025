@@ -1,0 +1,33 @@
+CASCADIA 
+SET-UP 
+• At 1/2/3/4 players Stack face-down (or bag) 42/43/63/83 Tiles. The remaining are not used 
+• Or at 1/2/3/4 players remove 43/42/22/2 tiles, and use the remaining. 
+• Randomly Select 1 Wildlife Scoring Card for each type of Wildlife, and place it on the table. 
+• Display: Draw 4 Tiles, place in a line, Draw 4 Tokens and randomly place 1 below each tile. 
+• Place a supply of Nature Tokens. 
+• Each player takes a Starter Habitat Tile. 
+TURN 
+1. Refresh Check:  
+• If 4 identical Tokens: Replace the matching 4. Repeat as necessary.  
+• If 3 identical Tokens: You may replace the matching 3. May do this once per turn only. 
+• You may spend 1 Nature token to: Replace any number of Tokens. 
+• To Replace: set aside replaced tokens, draw replacements, return replaced to bag. 
+2. Take 1 Tile and the Token below it. 
+• You may spend 1 Nature token to: Take any 1 Tile and any 1 Token. 
+3. Place Tile edge adjacent to any tile in your display. 
+4. Place Token on any Tile with matching wildlife, or discard it. 
+• If Tile is a Keystone tile, take a Nature token from the supply. 
+5. Refresh Display, draw a Token and Tile to replace those taken.
+
+END OF THE GAME 
+When there are no tiles left to refresh the display. i.e. each player has placed 20 tiles. 
+SCORING 
+1. Wildlife Cards: As per Card description. 
+2. For each Habitat Type: Score 1pt for each tile in your largest contiguous group. 
+3. Majorities: For each Habitat Type: 
+• At 2p: Player with the largest group scores 2pts. If tied, 1pt each. 
+• At 3/4p: Player with largest scores 3pts, 2nd largest scores 1pt. 
+• If 2 tie for largest, 2pts each, no points for 2nd. 
+• If 3/4 tie for largest, 1pt each, no points for 2nd. 
+4. Nature Tokens: 1pt per remaining Nature Token.
+
