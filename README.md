@@ -1,6 +1,5 @@
 **Repository intended for the entire subject of Natural Language Processing**
-**Degree: University Technician in Artificial Intelligence**
-**Semester: 2nd semester of 2025**
+**Degree: Tecnicatura Universitaria en Inteligencia Artificial**
 
 * **NLP\_CASCADIA**: Corresponds to the submission of the 2nd part of the practical assignment.
 * **TP\_FINAL**: Corresponds to the submission of the 3rd part of the practical assignment. It contains a techinal explanation to the solution proposed to the final ipynb file. 
