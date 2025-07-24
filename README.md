@@ -1,7 +1,3 @@
-Sure! Here's the English translation of your text:
-
----
-
 **Repository intended for the entire subject of Natural Language Processing**
 **Degree: University Technician in Artificial Intelligence**
 **Semester: 2nd semester of 2025**
