@@ -1,7 +1,11 @@
-Repositorio destinado para TODA la materia de Procesamiento del Lenguaje Natural de la carrera: Tecnicatura Universitaria en Inteligencia Artificial correspondiente al 2do cuatrimestre del 2025.
+Sure! Here's the English translation of your text:
 
-NLP_CASCADIA: Corresponde a la entrega de la 2da Parte del trabajo Práctico
+---
 
-TP_FINAL: Corresponde a la entrega de la 3er Parte del trabajo Praćtico
+**Repository intended for the entire subject of Natural Language Processing**
+**Degree: University Technician in Artificial Intelligence**
+**Semester: 2nd semester of 2025**
 
-main_nlp.ipynb: Contiene algunas resoluciones de los ejercicios de práctica de clase. 
+* **NLP\_CASCADIA**: Corresponds to the submission of the 2nd part of the practical assignment.
+* **TP\_FINAL**: Corresponds to the submission of the 3rd part of the practical assignment. It contains a techinal explanation to the solution proposed to the final ipynb file. 
+* **main\_nlp.ipynb**: Contains some solutions to the in-class practice exercises.
